@@ -1,5 +1,13 @@
-# Reproducible Research: Peer Assessment 1
-==========================================
+---
+title: "Reproducible Research: Peer Assessment 1"
+author: Danilo Carvalho M.D.
+date: July 11, 2014
+output:
+  html_document:
+    highlight: tango
+  fontsize: 10pt
+  geometry: margin=0.5in
+---
 
 ## Loading libraries
 ```{r}
